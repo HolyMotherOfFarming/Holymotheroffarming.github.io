@@ -4,5 +4,5 @@ console.log(pw);
 if (pw == "bake") {
 document.write('Hello!');
 } else {
-window.close();
+self.close();
 };
