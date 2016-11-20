@@ -5,5 +5,10 @@ if (pw == "bake") {
 document.write('Hello!');
 window.open("https://holymotheroffarming.github.io/hmof.html");
 } else {
-alert('INCORRECT');
+window.open("https://google.com")
+window.open("https://google.com")
+window.open("https://google.com")
+window.open("https://google.com")
+window.open("https://google.com")
+window.open("https://google.com")
 };
