@@ -5,23 +5,5 @@ if (pw == "bake") {
 document.write('Hello!');
 window.open("https://holymotheroffarming.github.io/hmof.html");
 } else {
-window.open("https://google.com");
-window.open("https://google.com");
-window.open("https://google.com");
-window.open("https://google.com");
-window.open("https://google.com");
-window.open("https://google.com");
-window.open("https://google.com");
-window.open("https://google.com");
-window.open("https://google.com");
-window.open("https://google.com");
-window.open("https://google.com");
-window.open("https://google.com");
-window.open("https://google.com");
-window.open("https://google.com");
-window.open("https://google.com");
-window.open("https://google.com");
-window.open("https://google.com");
-window.open("https://google.com");
-window.open("https://google.com");
+window.open("https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm...+You+will+not");
 };
