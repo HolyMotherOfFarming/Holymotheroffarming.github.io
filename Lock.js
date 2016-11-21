@@ -6,5 +6,5 @@ if (pw == "tyrueiwoqp") {
 document.write(TEXT);
 } else {
 window.open("https://www.youtube.com/watch?v=SeOAcYk3FNc");
-window.open("https://www.youtube.com/watch?v=3BE95qqkTc0")
+window.open("https://www.youtube.com/watch?v=3BE95qqkTc0");
 };
