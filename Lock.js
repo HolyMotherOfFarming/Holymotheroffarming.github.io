@@ -1,5 +1,5 @@
 var pw = (prompt("What is the password?"));
-var TEXT = "This is all of the text on the page."
+var TEXT = " This is all of the text on the page."
 
 console.log(pw);
 if (pw == "bake") {
