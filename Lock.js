@@ -5,5 +5,6 @@ console.log(pw);
 if (pw == "tyrueiwoqp") {
 document.write(TEXT);
 } else {
-window.open("https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=mmmmmmmmmmmmmmmmmmmmmmmm...+You+will+not");
+window.open("https://www.youtube.com/watch?v=SeOAcYk3FNc");
+window.open("https://www.youtube.com/watch?v=3BE95qqkTc0")
 };
