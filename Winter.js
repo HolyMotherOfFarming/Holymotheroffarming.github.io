@@ -1,1 +1,5 @@
-var snow = document.write("<img border="0" src="http://4.bp.blogspot.com/-C4vvMEB9MyI/TfW0lduV2NI/AAAAAAAAAZc/N7HL1pUusGw/s1600/some image.png" />");
+var snow
+
+snow = setInterval(document.write("snow"), 100)
+snow = object.style.left = 100
+snow = object.style.top = 100
