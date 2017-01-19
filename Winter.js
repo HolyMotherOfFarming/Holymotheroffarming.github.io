@@ -1,1 +1,1 @@
-var snow = document.write("snow                                            snow       snow snow                                                                        snow");
+var snow = document.write("snow");
