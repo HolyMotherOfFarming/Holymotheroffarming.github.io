@@ -68,7 +68,7 @@ function keyPressed() {
 	} else if (keyCode === 82) {
 		scl += 5
 	}
-}
+}	
 
 
 
