@@ -7,7 +7,6 @@ var started = false;
 
 var fR = 20;
 
-var death = Prompt("You scored" + " " + this.total + ". Restart?");
 
 function setup() {
 	noLoop();
@@ -105,15 +104,17 @@ function Snake() {
 			var d = dist(this.x, this.y, pos.x, pos.y);
 			if (d < 1) {
 				//console.log('starting over');
-				console.log(death);
-					if (death = "yes") {
-					setup2();	
+				var yn = confirm("You scored " + this.total + ". Restart?");
+				console.log(yn);
+					if (yn == true) {
+						setup2();
 					} else {
-					setup();	
+						setup();
 					}
+					
+				
 				this.total = 0;
 				this.tail = [];
-				setup2();
 			}
 		}
 	}
