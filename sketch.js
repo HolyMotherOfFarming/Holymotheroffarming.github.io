@@ -13,7 +13,7 @@ function setup() {
 }
 
 function setup2() {
-	createCanvas(1000, 1000);
+	createCanvas(600, 600);
 	s = new Snake();
 	pickLocation();
 	loop();
